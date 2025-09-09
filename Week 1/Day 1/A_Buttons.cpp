@@ -21,6 +21,7 @@ int main ()
     else{
         cnt+=b;
     }
-    cout<<cnt<<'\n';
+    cout<<cnt<<endl;
     return 0;
+
 }
